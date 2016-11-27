@@ -10,5 +10,6 @@ The following parts are planed:
 * Service registry center (for Micro Services).
 * Micro Services SDK.
 * Docker & Machine management server (usually called CMDB).
-* Docker init management
-* SaltStack like ops tool
+* Docker init management.
+* SaltStack like ops tool.
+* Detailed handbook for CentOS7 management.
